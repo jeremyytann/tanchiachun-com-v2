@@ -12,7 +12,7 @@ export default function Experience() {
 
         <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
-            Developer {'\u2022'} Getright Digital
+            Software Developer {'\u2022'} Getright Digital
           </h2>
 
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-5 w-5" aria-hidden="true">
