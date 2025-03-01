@@ -10,7 +10,7 @@ export default function Introduction() {
             Software Developer
           </h2>
           <p className="text-md md:text-lg font-light color-primary">
-            I enjoy turning ideas into projects.
+            I love bringing ideas to life.
           </p>
         </div>
         
