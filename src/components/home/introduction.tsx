@@ -15,7 +15,7 @@ export default function Introduction() {
         </div>
         
         <div className="mt-9 flex gap-6 items-center">
-          <a className="block text-zinc-300 hover:text-zinc-50" href="https://github.com/jeremyytann" target="_blank" rel="noreferrer noopener" aria-label="GitHub (opens in a new tab)" title="GitHub">
+          <a className="block text-zinc-600 hover:text-zinc-800" href="https://github.com/jeremyytann" target="_blank" rel="noreferrer noopener" aria-label="GitHub (opens in a new tab)" title="GitHub">
             <span className="sr-only">
               GitHub
             </span>
@@ -26,7 +26,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="block text-zinc-300 hover:text-zinc-50" href="https://www.linkedin.com/in/jeremyytann/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn (opens in a new tab)" title="LinkedIn">
+          <a className="block text-zinc-600 hover:text-zinc-800" href="https://www.linkedin.com/in/jeremyytann/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn (opens in a new tab)" title="LinkedIn">
             <span className="sr-only">
               LinkedIn
             </span>
@@ -37,7 +37,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="block text-zinc-300 hover:text-zinc-50" href="https://instagram.com/tanchiachun/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)" title="Instagram">
+          <a className="block text-zinc-600 hover:text-zinc-800" href="https://instagram.com/tanchiachun/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)" title="Instagram">
             <span className="sr-only">
               Instagram
             </span>
