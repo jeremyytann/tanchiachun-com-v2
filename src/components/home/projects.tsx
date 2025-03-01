@@ -6,7 +6,7 @@ export default function Projects() {
       </h1>
 
       <div className="flex flex-col gap-2 md:gap-4">
-        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://techconcept.my/" target="_blank" rel="noreferrer noopener" aria-label="FusionETA (opens in a new tab)" title="FusionETA">
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://techconcept.my/" target="_blank" rel="noreferrer noopener" aria-label="Tech Concept (opens in a new tab)" title="Tech Concept">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
             Tech Concept
           </h2>
@@ -27,7 +27,7 @@ export default function Projects() {
       </div>
 
       <div className="flex flex-col gap-2 md:gap-4">
-        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.secondsbooth.com/" target="_blank" rel="noreferrer noopener" aria-label="FusionETA (opens in a new tab)" title="FusionETA">
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.secondsbooth.com/" target="_blank" rel="noreferrer noopener" aria-label="Seconds Booth (opens in a new tab)" title="Seconds Booth">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
             Seconds Photobooth
           </h2>
@@ -46,7 +46,7 @@ export default function Projects() {
       </div>
 
       <div className="flex flex-col gap-2 md:gap-4">
-        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.netglue.com.my/" target="_blank" rel="noreferrer noopener" aria-label="FusionETA (opens in a new tab)" title="FusionETA">
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.netglue.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Netglue (opens in a new tab)" title="Netglue">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
             NGT Mobile {'\u2022'} Netglue
           </h2>

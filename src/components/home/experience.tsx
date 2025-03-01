@@ -10,7 +10,7 @@ export default function Experience() {
           Full-Time {'\u2022'} Feb 2023 - Present
         </p>
 
-        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="FusionETA (opens in a new tab)" title="FusionETA">
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
             Developer {'\u2022'} Getright Digital
           </h2>
@@ -138,7 +138,7 @@ export default function Experience() {
       </div>
 
       <div>
-        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="FusionETA (opens in a new tab)" title="FusionETA">
+        <a className="w-fit flex items-center color-secondary gap-3 hover:cursor-pointer" href="/resume.pdf" target="_blank" rel="noreferrer noopener" aria-label="Resume (opens in a new tab)" title="Resume">
           <h2 className="text-lg md:text-xl font-medium color-secondary">
             View Full Résumé
           </h2>
