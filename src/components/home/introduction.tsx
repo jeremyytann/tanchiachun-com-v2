@@ -52,27 +52,31 @@ export default function Introduction() {
 
       <div className="lg:w-[52%] flex flex-col gap-5">
         <p className="text-md md:text-lg font-light color-primary leading-8">
-          Lorem ipsum dolor sit amet, <span className="font-bold color-secondary">consectetur</span> adipiscing elit. 
-          Mauris et velit nec lectus vestibulum mollis. Fusce id 
-          porttitor orci, eu scelerisque ante. Nulla consequat sed 
-          lorem quis pretium. Pellentesque dictum est id aliquet vulputate. 
-          Suspendisse at malesuada orci. Nunc rhoncus dolor sit amet nisi 
-          varius, quis cursus massa lacinia. Class aptent taciti sociosqu 
-          ad litora torquent per conubia nostra, per inceptos himenaeos. 
-          Cras dapibus sollicitudin felis, ut efficitur neque ultricies ac. 
-          Integer sodales lacus non congue facilisis.
+          I'm a passionate software engineer with a strong focus on front-end development, 
+          dedicated to crafting seamless, high-performing digital experiences that bridge 
+          design and technology. I specialize in building intuitive websites and mobile 
+          applications that prioritize usability, accessibility, and performance.
         </p>
 
         <p className="text-md md:text-lg font-light color-primary leading-8">
-          Lorem ipsum dolor sit amet, <span className="font-bold color-secondary">consectetur</span> adipiscing elit. 
-          Mauris et velit nec lectus vestibulum mollis. Fusce id 
-          porttitor orci, eu scelerisque ante. Nulla consequat sed 
-          lorem quis pretium. Pellentesque dictum est id aliquet vulputate. 
-          Suspendisse at malesuada orci. Nunc rhoncus dolor sit amet nisi 
-          varius, quis cursus massa lacinia. Class aptent taciti sociosqu 
-          ad litora torquent per conubia nostra, per inceptos himenaeos. 
-          Cras dapibus sollicitudin felis, ut efficitur neque ultricies ac. 
-          Integer sodales lacus non congue facilisis.
+          Currently, I'm a Software Developer 
+          at <a className="font-medium color-secondary hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">Getright</a>, 
+          where I focus on website and mobile app development, helping 
+          businesses bring their ideas to life.
+        </p>
+
+        <p className="text-md md:text-lg font-light color-primary leading-8">
+          Over the years, I've contributed to projects across various industries—from 
+          startups to enterprise solutions—designing and developing scalable 
+          software that enhances user engagement.
+        </p>
+
+        <p className="text-md md:text-lg font-light color-primary leading-8">
+          Beyond coding, I enjoy exploring new technologies and refining 
+          digital products to create impactful experiences. 
+          In my free time, you'll find me running, capturing moments through photography, 
+          and reflecting on past memories—sometimes indulging in a nostalgic 
+          trip down memory lane.
         </p>
       </div>
     </div>
