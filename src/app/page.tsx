@@ -1,7 +1,7 @@
 import Experience from "@/components/home/experience";
 import Projects from "@/components/home/projects";
 import Introduction from "@/components/home/introduction";
-import Image from "next/image";
+import Footer from "@/components/home/footer";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
       <Introduction />
       <Experience />
       <Projects />
+      <Footer />
     </div>
   );
 }
