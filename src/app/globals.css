@@ -11,6 +11,10 @@ body {
   font-family: 'Space Grotesk Variable', sans-serif;  
 }
 
+.color-background {
+  color: var(--background);
+}
+
 .color-primary {
   color: var(--primary);
 }
