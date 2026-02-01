@@ -84,7 +84,7 @@ export default function Experience() {
             <p className="font-medium">iOS</p>
           </a>
 
-          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://play.google.com/store/apps/details?id=com.simedarbyproperty.sdpappv2&hl=en/" target="_blank" rel="noreferrer noopener" aria-label="Sime Darby Property Android App (opens in a new tab)" title="Sime Darby Property Android App">
+          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://play.google.com/store/apps/details?id=com.simedarbyproperty.sdpappv2" target="_blank" rel="noreferrer noopener" aria-label="Sime Darby Property Android App (opens in a new tab)" title="Sime Darby Property Android App">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M15.197 3.35462C16.8703 1.67483 19.4476 1.53865 20.9536 3.05046C22.4596 4.56228 22.3239 7.14956 20.6506 8.82935L18.2268 11.2626M10.0464 14C8.54044 12.4882 8.67609 9.90087 10.3494 8.22108L12.5 6.06212"/>
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M13.9536 10C15.4596 11.5118 15.3239 14.0991 13.6506 15.7789L11.2268 18.2121L8.80299 20.6454C7.12969 22.3252 4.55237 22.4613 3.0464 20.9495C1.54043 19.4377 1.67609 16.8504 3.34939 15.1706L5.77323 12.7373"/>
@@ -103,7 +103,7 @@ export default function Experience() {
         </p>
 
         <div className="mt-1 flex items-center gap-x-6 gap-y-3 flex-wrap">
-          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://www.skillsture.com/" target="_blank" rel="noreferrer noopener" aria-label="Skillsture (opens in a new tab)" title="Skillsture">
+          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://www.skillsture.io/" target="_blank" rel="noreferrer noopener" aria-label="Skillsture (opens in a new tab)" title="Skillsture">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M15.197 3.35462C16.8703 1.67483 19.4476 1.53865 20.9536 3.05046C22.4596 4.56228 22.3239 7.14956 20.6506 8.82935L18.2268 11.2626M10.0464 14C8.54044 12.4882 8.67609 9.90087 10.3494 8.22108L12.5 6.06212"/>
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M13.9536 10C15.4596 11.5118 15.3239 14.0991 13.6506 15.7789L11.2268 18.2121L8.80299 20.6454C7.12969 22.3252 4.55237 22.4613 3.0464 20.9495C1.54043 19.4377 1.67609 16.8504 3.34939 15.1706L5.77323 12.7373"/>
@@ -121,7 +121,7 @@ export default function Experience() {
             <p className="font-medium">iOS</p>
           </a>
 
-          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://play.google.com/store/apps/details?id=com.flutter.skillsture&hl=en/" target="_blank" rel="noreferrer noopener" aria-label="Skillsture Android App (opens in a new tab)" title="Sime Darby Property Android App">
+          <a className="w-fit flex items-center color-secondary gap-2 hover:cursor-pointer" href="https://play.google.com/store/apps/details?id=com.pdigital.skillsture" target="_blank" rel="noreferrer noopener" aria-label="Skillsture Android App (opens in a new tab)" title="Sime Darby Property Android App">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M15.197 3.35462C16.8703 1.67483 19.4476 1.53865 20.9536 3.05046C22.4596 4.56228 22.3239 7.14956 20.6506 8.82935L18.2268 11.2626M10.0464 14C8.54044 12.4882 8.67609 9.90087 10.3494 8.22108L12.5 6.06212"/>
               <path stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" d="M13.9536 10C15.4596 11.5118 15.3239 14.0991 13.6506 15.7789L11.2268 18.2121L8.80299 20.6454C7.12969 22.3252 4.55237 22.4613 3.0464 20.9495C1.54043 19.4377 1.67609 16.8504 3.34939 15.1706L5.77323 12.7373"/>
