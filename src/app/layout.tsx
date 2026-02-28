@@ -4,7 +4,13 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Tan Chia Chun",
-  description: "A personal website",
+  description: "Personal portfolio website of Tan Chia Chun",
+  applicationName: "Tan Chia Chun",
+  referrer: "strict-origin-when-cross-origin",
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
