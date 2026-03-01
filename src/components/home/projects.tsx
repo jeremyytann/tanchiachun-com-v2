@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
-    <div className="mb-16 md:mb-24 lg:mb-36 flex flex-col gap-8 md:gap-12">
-      <h1 className="text-xl md:text-2xl font-bold tracking-widest color-secondary">
+    <div id="projects" className="section-card mb-12 md:mb-20 lg:mb-28 flex flex-col gap-8 md:gap-12">
+      <h1 className="text-xl md:text-2xl font-bold section-heading">
         PROJECTS
       </h1>
 

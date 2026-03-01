@@ -6,7 +6,7 @@ import Skills from "@/components/home/skills";
 
 export default function Home() {
   return (
-    <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-16 lg:py-24">
+    <div className="page-shell mx-auto min-h-screen max-w-5xl px-5 pt-14 pb-8 md:px-8 md:pt-16 md:pb-10 lg:pt-20 lg:pb-12">
       <Introduction />
       <Experience />
       <Skills />

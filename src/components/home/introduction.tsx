@@ -1,9 +1,9 @@
 export default function Introduction() {
   return (
-    <div className="mb-16 md:mb-24 lg:mb-36 lg:flex lg:justify-between">
+    <div id="top" className="section-card mb-12 md:mb-20 lg:mb-28 lg:flex lg:justify-between">
       <div className="mb-16 lg:mb-0">
         <div className="flex flex-col gap-3">
-          <h1 className="text-4xl md:text-5xl font-bold tracking-tight color-secondary">
+          <h1 className="text-4xl md:text-6xl font-bold tracking-tight hero-title">
             Tan Chia Chun
           </h1>
           <h2 className="text-lg md:text-xl font-medium color-secondary">
@@ -15,7 +15,7 @@ export default function Introduction() {
         </div>
         
         <div className="mt-9 flex gap-6 items-center">
-          <a className="block text-zinc-600 hover:text-zinc-800" href="https://github.com/jeremyytann" target="_blank" rel="noreferrer noopener" aria-label="GitHub (opens in a new tab)" title="GitHub">
+          <a className="social-link block" href="https://github.com/jeremyytann" target="_blank" rel="noreferrer noopener" aria-label="GitHub (opens in a new tab)" title="GitHub">
             <span className="sr-only">
               GitHub
             </span>
@@ -26,7 +26,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="block text-zinc-600 hover:text-zinc-800" href="https://docs.tanchiachun.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)" title="Instagram">
+          <a className="social-link block" href="https://docs.tanchiachun.com" target="_blank" rel="noreferrer noopener" aria-label="Docs (opens in a new tab)" title="Docs">
             <span className="sr-only">
               Docs
             </span>
@@ -36,7 +36,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="block text-zinc-600 hover:text-zinc-800" href="https://www.linkedin.com/in/jeremyytann/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn (opens in a new tab)" title="LinkedIn">
+          <a className="social-link block" href="https://www.linkedin.com/in/jeremyytann/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn (opens in a new tab)" title="LinkedIn">
             <span className="sr-only">
               LinkedIn
             </span>
@@ -47,7 +47,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="block text-zinc-600 hover:text-zinc-800" href="https://instagram.com/tanchiachun/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)" title="Instagram">
+          <a className="social-link block" href="https://instagram.com/tanchiachun/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)" title="Instagram">
             <span className="sr-only">
               Instagram
             </span>
@@ -70,7 +70,7 @@ export default function Introduction() {
 
         <p className="text-md md:text-lg font-light color-primary leading-8">
           Currently, I'm a Software Developer 
-          at <a className="font-medium color-secondary hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">Getright</a>, 
+          at <a className="link-underline font-medium color-secondary hover:cursor-pointer" href="https://www.getright.com.my/" target="_blank" rel="noreferrer noopener" aria-label="Getright (opens in a new tab)" title="Getright">Getright</a>, 
           where I focus on website and mobile app development, helping 
           businesses bring their ideas to life.
         </p>
