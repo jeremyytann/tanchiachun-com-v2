@@ -26,7 +26,7 @@ export default function Introduction() {
             </svg>
           </a>
 
-          <a className="social-link block" href="https://docs.tanchiachun.com" target="_blank" rel="noreferrer noopener" aria-label="Docs (opens in a new tab)" title="Docs">
+          <a className="social-link block" href="https://docs.tanchiachun.my" target="_blank" rel="noreferrer noopener" aria-label="Docs (opens in a new tab)" title="Docs">
             <span className="sr-only">
               Docs
             </span>
